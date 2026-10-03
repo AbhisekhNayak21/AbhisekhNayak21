@@ -1,5 +1,5 @@
 # Hi, I'm Abhisekh
-I’m currently 2nd year btech cse student working on Web development projects trying to make more responsive websites. I am open to contributing my inputs to the projects and collaborating. I’m currently strengthening my DSA and learning cloud. I’m looking for someone who has prior experience on cloud to learn a few things.
+I’m currently 3rd year btech cse student working on Web development projects trying to make more responsive websites. I am open to contributing my inputs to the projects and collaborating. I’m currently strengthening my DSA and learning cloud. I’m looking for someone who has prior experience on cloud to learn a few things.
 
 
 ## 🌐 Socials:
