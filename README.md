@@ -1,6 +1,5 @@
 # Hi, I'm Abhisekh
-I’m currently 3rd year btech cse student working on Web development projects trying to make more responsive websites. I am open to contributing my inputs to the projects and collaborating. I’m currently strengthening my DSA and learning cloud. I’m looking for someone who has prior experience on cloud to learn a few things.
-
+A 3rd CSE student at KIIT focused on developing full-stack development and AI /ML projects. I work with C++, Python, React, Node.js, Express, SQL, NumPy, Pandas, Docker and Kubernetes to create clean and scalable solutions alongside building LLMs and train ML models as well. I am open to contributing my inputs to the projects and collaborating in projects. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisekh-nayak-5a4b95374?utm_source=share_via&utm_content=profile&utm_medium=member_ios/) 
